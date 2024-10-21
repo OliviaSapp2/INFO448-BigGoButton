@@ -6,7 +6,7 @@ When I push the "Push Me!" button
 
 - 1st time: the text should change to read "You have pushed me 1 time!"
 
--Each time after that: the counter in the text should increment by 1
+- Each time after that: the counter in the text should increment by 1
 
 - The text should read "You have pushed me 2 times!" "... 3 times!" and so on
 
